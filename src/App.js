@@ -46,6 +46,7 @@ const App = () => {
 
   return (
     <div>
+    <h1>Recipe App</h1>
       <div className="d-flex justify-content-center m-5">
         <div className="d-flex align-items-center m-3">
           <input
