@@ -46,7 +46,11 @@ const App = () => {
 
   return (
     <div>
+<<<<<<< HEAD
       <h1>Another heading</h1>
+=======
+    <h1>Recipe App</h1>
+>>>>>>> 925a32a0b0f0ec8424b33763c54467d4b808a51f
       <div className="d-flex justify-content-center m-5">
         <div className="d-flex align-items-center m-3">
           <input
